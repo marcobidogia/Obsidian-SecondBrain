@@ -78,6 +78,7 @@
       {
         "id": "623a336a95c2642e",
         "type": "tabs",
+        "dimension": 21.229586935638807,
         "children": [
           {
             "id": "29b4aae556992619",
@@ -108,6 +109,7 @@
       {
         "id": "445228e0525e9e98",
         "type": "tabs",
+        "dimension": 45.43707973102786,
         "children": [
           {
             "id": "69c182012babdac4",
@@ -124,6 +126,7 @@
       {
         "id": "5f3d2e1c6c1d69af",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "2df169c776494add",
@@ -176,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ced6e4191cb0d7d",
+  "active": "6d687d63f05f0579",
   "lastOpenFiles": [
     "files/image.png.md",
     "systems/Docker.md",
