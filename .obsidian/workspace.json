@@ -176,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4298c03c03d52ae",
+  "active": "6d687d63f05f0579",
   "lastOpenFiles": [
-    "design_pattern/Adapter.md",
     "databases/SQL.md",
+    "design_pattern/Adapter.md",
     "databases/Untitled",
     "databases",
     "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
