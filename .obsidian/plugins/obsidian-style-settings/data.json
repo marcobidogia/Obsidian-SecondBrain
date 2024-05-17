@@ -1,0 +1,12 @@
+{
+  "entry-point@@color-scheme-selector": "color-scheme-alchemy",
+  "entry-point@@floating-sides": false,
+  "entry-point@@separate-color-scheme": false,
+  "entry-point@@dark-mode-color-scheme-selector": "dm-color-scheme-alchemy",
+  "entry-point@@minimal-mode": false,
+  "entry-point@@minimal-sidebar": "sidebar-hide",
+  "entry-point@@minimal-workspace-sides-tabs": "sides-tabs-show",
+  "entry-point@@minimal-workspace-nav-header": "nav-header-show",
+  "entry-point@@minimal-workspace-root-tabs": "root-tabs-show",
+  "entry-point@@smooth-mode": true
+}
