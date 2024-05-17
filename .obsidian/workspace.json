@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md",
+                "file": "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md",
+                "file": "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md"
+                "file": "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md",
+                "file": "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,6 +173,8 @@
   "active": "6d687d63f05f0579",
   "lastOpenFiles": [
     "design_pattern/Adapter.md",
+    "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
+    "refactoring/refactoring_guru/dive_into_refactoring",
     "refactoring/refactoring_guru/Dive Into Refactoring.md",
     "refactoring/refactoring_guru",
     "refactoring",
