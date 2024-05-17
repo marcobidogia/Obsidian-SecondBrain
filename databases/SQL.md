@@ -24,7 +24,6 @@ Gli *statements* SQL si leggono esattamente come si scrivono, in questo caso la 
 
 # Comandi
 ## Database
-
 ``` SQL
 -- crea database
 CREATE DATABASE <nome database>;
@@ -34,7 +33,6 @@ DROP DATABASE <nome database>;
 ```
 
 ## Tabelle
-
 ``` SQL
 --crea tabaella
 CREATE TABLE nometabella(
@@ -54,7 +52,6 @@ CREATE TABLE IF NOT EXIST <nome tabella> (<nome dato> <tipo dato> <constaint>);
 per i tipi di dati fare riferiemento a: [Tutorial republic -> Tipi di dati](https://www.tutorialrepublic.com/sql-tutorial/sql-create-table-statement.php)
 
 ## Constraint
-
 ``` sql
 --esempio
 CREATE TABLE prova(id int not null);
@@ -63,7 +60,6 @@ CREATE TABLE prova(id int not null);
 "not null" indica che il valore da aggiungere non deve essere nullo.
 
 ### Primary key
-
 indica che il valore deve essere la chiave univoca del dato
 
 ``` sql
@@ -75,11 +71,9 @@ PRIMARY KEY (id)
 ```
 
 ### Unique
-
 Un campo univoco.
 
 ### Default
-
 ``` sql
 --esempio
 CREATE TABLE prova(
@@ -92,7 +86,6 @@ PRIMARY KEY (id)
 indica che quando non viene specificato il valore di quella colonna verrà dato il valore "default".
 
 ### Check
-
 ``` sql
 --esempio
 CREATE TABLE prova(
@@ -106,7 +99,6 @@ PRIMARY KEY (id)
 fa in modo che quando verrà inserito il valore della colonna stipendio ci sara un controllo sul valore che stia all'interno del range inserito ad esempio.
 
 ### Foreign key
-
 ``` sql
 --esempio
 CREATE TABLE prova(
@@ -121,20 +113,17 @@ FOREIGN KEY (id) REFERENCES rapporto_clienti(id <nome su tabella rapporto_client
 indica che il valore della colonna id sarà l'indice per la tabella rapporto per le ricerche.
 
 ### Insert
-
 ```sql
 INSERT INTO <nome tabella> (<colonna1>, ...)
 VALUES (<valore colonna 1>, ..)
 ```
 
 ### Select
-
 ```sql
 SELECT <colonne che interessano divise da ,> FROM <nome>   
 ```
 
 ### Condizioni con where
-
 ```sql
 SELECT <colonne desiderate> FROM <tabella> WHERE <condizione>   
 ```
@@ -187,13 +176,11 @@ Consider we've an _employees_ table in our database with the following records:
 ```
 
 ### Ordinamento
-
 ```sql
 ... ORDER BY <proprietà> ASC|DES
 ```
 
 ### Limit
-
 ```sql
 SELECT * FROM table LIMIT 100   
 ```
@@ -207,7 +194,6 @@ SELECT * FROM table LIMIT <offset>, 100
 ```
 
 ## Disctinct
-
 Restituisce solo i valori diversi della colonna, se ho alcuni variabili uguali li salta.
 
 ```sql
@@ -217,7 +203,6 @@ SELECT DISTINCT citta FROM clienti;
 Ritorna le città sempre diverse fra i clienti.
 
 ## Count
-
 Se messo su un SELECT estrae il numero di valori che escono da una colonna:
 
 ```sql
@@ -225,3 +210,51 @@ SELECT COUNT(citta) FROM clienti;
 ```
 
 Ritorna la lunghezza lista di città.
+
+## Update
+Sintassi:
+
+```sql
+UPDATE <tabella> SET colonna1 = valore1 WHERE consizione   
+```
+
+Aggiorna la tabella, nella colonna 1 con il valore "valore1" a tutti gli oggetti che rispondono al where.
+
+## Delete
+Sintassi:
+
+```sql
+DELETE FROM tabella WHERE condizione;   
+```
+
+Cancella dalla tabella "tabella" usando la condizione "condizione"
+
+
+> [!warning] 
+> RICORDA LA CONDIZIONE! ALTRIMENTI VERRANNO CANCELLATI TUTTI I DATI
+
+## Truncate
+Ricrea la tabella aggiornando anche autoincrement
+
+Sintassi:
+
+```sql
+TRUNCATE TABLE <nome tabella>
+```
+
+> TRUNCATE TABLE vs DELETE 
+> Although DELETE and TRUNCATE TABLE seem to have the same effect, but they do work differently. Here are some major differences between these two statements: 
+> - TRUNCATE TABLE statement drop and re-create the table in such a way that any auto-increment value is reset to its start value which is generally 1.
+> - DELETE lets you filter which rows to be deleted based upon an optional WHERE clause, whereas TRUNCATE TABLE doesn't support WHERE clause it just removes all the rows. 
+> - TRUNCATE TABLE is faster and uses fewer system resources than DELETE, because DELETE scans the table to generate a count of rows that were affected then delete the rows one by one and records an entry in the database log for each deleted row, while TRUNCATE TABLE just delete all the rows without providing any additional information.
+
+## JOIN
+[Tutorial republic -> JOIN](https://www.tutorialrepublic.com/sql-tutorial/sql-joining-tables.php)
+
+### Inner Join
+```sql
+SELECT <cosa voglio tirare fuori sia da tabella 1 che da 2 es. tabella1.prop, tabella2.prop> FROM <tabella 1> INNER JOIN <tabella 2> ON <condizione tipo: tabella1.prop = tabella2.prop>
+```
+
+#### Left Join e Right Join
+Collega tutta la tabella di di una parte e quello che matcha dell'altra

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "databases/SQL.md",
+                "file": "systems/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "databases/SQL.md",
+                "file": "systems/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "databases/SQL.md"
+                "file": "systems/Docker.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "databases/SQL.md",
+                "file": "systems/Docker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,9 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d687d63f05f0579",
+  "active": "5ced6e4191cb0d7d",
   "lastOpenFiles": [
+    "files/image.png.md",
+    "systems/Docker.md",
+    "files",
+    "systems/Anytype.20240517.175003.21/docker.md",
+    "systems/Anytype.20240517.175003.21",
+    "systems/Kubernetes.md",
     "databases/SQL.md",
+    "systems/Untitled",
+    "systems",
     "design_pattern/Adapter.md",
     "databases/Untitled",
     "databases",
@@ -191,11 +199,8 @@
     "linux_procedures/Accesso a Github via ssh.md",
     "design_pattern",
     "info/Github.md",
-    "wikis/Untitled",
-    "info",
     "Untitled.canvas",
     "Test.md",
-    "linux_procedures",
     "ciao.md",
     "README.md"
   ]
