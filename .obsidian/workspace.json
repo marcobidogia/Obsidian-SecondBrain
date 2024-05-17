@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05d2c481c8faccfc",
+        "id": "50d0269ddb9cb258",
         "type": "tabs",
         "children": [
           {
-            "id": "045efa169f087e4b",
+            "id": "6d687d63f05f0579",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "205279bd031f1a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ciao.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "ciao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "ciao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "ciao.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "045efa169f087e4b",
+  "active": "205279bd031f1a1a",
   "lastOpenFiles": [
     "Test.md",
+    "ciao.md",
     "ciao.md",
     "ciao.md",
     "README.md"
