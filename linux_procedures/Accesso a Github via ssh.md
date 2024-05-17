@@ -3,7 +3,7 @@ tags:
   - linux_procedures
 ---
 
-Per accedere a Github via ssh per impostare la connessione permanente da un server Linux è necessario seguire questa procedura:
+Per accedere a [[Github]] via ssh per impostare la connessione permanente da un server Linux è necessario seguire questa procedura:
 
 1. Recati sulla cartella '/home/.ssh'
 

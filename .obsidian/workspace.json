@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_linux_procedures/Accesso a Github via ssh.md",
+                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_linux_procedures/Accesso a Github via ssh.md",
+                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_linux_procedures/Accesso a Github via ssh.md"
+                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_linux_procedures/Accesso a Github via ssh.md",
+                "file": "refactoring/refactoring_guru/Dive Into Refactoring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
                   "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.443,
+                  "nodeSizeMultiplier": 1.08,
                   "lineSizeMultiplier": 1.129,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
@@ -172,10 +172,19 @@
   },
   "active": "6d687d63f05f0579",
   "lastOpenFiles": [
-    "01_linux_procedures/Accesso a Github via ssh.md",
+    "design_pattern/Adapter.md",
+    "refactoring/refactoring_guru/Dive Into Refactoring.md",
+    "refactoring/refactoring_guru",
+    "refactoring",
+    "design_pattern/Decorator.md",
+    "linux_procedures/Accesso a Github via ssh.md",
+    "design_pattern",
+    "info/Github.md",
+    "wikis/Untitled",
+    "info",
     "Untitled.canvas",
     "Test.md",
-    "01_linux_procedures",
+    "linux_procedures",
     "ciao.md",
     "README.md"
   ]
