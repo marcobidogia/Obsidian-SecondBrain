@@ -1,0 +1,6 @@
+{
+  "format": "MM-DD",
+  "folder": "daily_journals/2024",
+  "template": "templates/journaling/{{date}}",
+  "autorun": true
+}

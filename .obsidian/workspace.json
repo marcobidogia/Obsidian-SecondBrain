@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systems/Docker.md",
+                "file": "refactoring_guru/Dive_into_refactoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d71f9c91dc73227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Così Parlò Zarathustra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:phylosofy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systems/Docker.md",
+                "file": "books/Così Parlò Zarathustra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,6 +116,23 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "8e921ae3bd5f0f9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/Così Parlò Zarathustra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -109,7 +140,7 @@
       {
         "id": "445228e0525e9e98",
         "type": "tabs",
-        "dimension": 45.43707973102786,
+        "dimension": 45.437079731027865,
         "children": [
           {
             "id": "69c182012babdac4",
@@ -117,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systems/Docker.md"
+                "file": "books/Così Parlò Zarathustra.md"
               }
             }
           }
@@ -126,7 +157,7 @@
       {
         "id": "5f3d2e1c6c1d69af",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "2df169c776494add",
@@ -134,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "systems/Docker.md",
+                "file": "books/Così Parlò Zarathustra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,32 +210,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d687d63f05f0579",
+  "active": "d71f9c91dc73227e",
   "lastOpenFiles": [
-    "files/image.png.md",
-    "systems/Docker.md",
-    "files",
-    "systems/Anytype.20240517.175003.21/docker.md",
-    "systems/Anytype.20240517.175003.21",
-    "systems/Kubernetes.md",
-    "databases/SQL.md",
-    "systems/Untitled",
-    "systems",
+    "books/Così Parlò Zarathustra.md",
+    "books/Clean Code.md",
+    "refactoring_guru/Dive_into_refactoring.md",
+    "books",
+    "codecademy/Learn javascript unit testing.md",
+    "refactoring_guru",
+    "codecademy/Foundamentals of Cybersecurity Skill Path.md",
     "design_pattern/Adapter.md",
-    "databases/Untitled",
-    "databases",
+    "codecademy/Foundamentals_of_Cybersecurity Skill_Path",
+    "codecademy",
+    "databases/SQL.md",
+    "aws/Route_53.md",
+    "aws/RDS.md",
+    "aws/Aurora.md",
+    "aws/Elasticache.md",
+    "aws/MemoryDB_for_Redis.md",
+    "aws/IAM.md",
+    "linux_procedures/Accesso_a_Github_via_ssh.md",
+    "programming_languages/GoLang/001_intro.md",
+    "aws/amazon_aurora/Untitled.md",
+    "aws/amazon_aurora",
+    "aws",
+    "programming_languages/GoLang",
+    "programming_languages",
+    "daily_journals/2024/05-20.md",
+    "systems/Docker.md",
+    "systems/Kubernetes.md",
+    "templates/journaling/{{date}}.md",
+    "daily_journals/<% tp.date.now(\"YYYY\", -1) %>/<% tp.date.now(\"MM-MMMM\", -1) %>/<% tp.date.now(\"YYYY-MM-DD-dddd\", -1) %>.md",
+    "daily_journals/<% tp.date.now(\"YYYY\", -1) %>/<% tp.date.now(\"MM-MMMM\", -1) %>",
+    "daily_journals/<% tp.date.now(\"YYYY\", -1) %>",
+    "Timestamps/<% tp.date.now(\"MM-MMMM\", -1) %>/<% tp.date.now(\"MM-DD-dddd\", -1) %>.md",
+    "files/image.png.md",
+    "systems/Anytype.20240517.175003.21/docker.md",
     "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
-    "refactoring/refactoring_guru/dive_into_refactoring",
     "refactoring/refactoring_guru/Dive Into Refactoring.md",
-    "refactoring/refactoring_guru",
-    "refactoring",
-    "design_pattern/Decorator.md",
-    "linux_procedures/Accesso a Github via ssh.md",
-    "design_pattern",
-    "info/Github.md",
-    "Untitled.canvas",
-    "Test.md",
-    "ciao.md",
-    "README.md"
+    "Untitled.canvas"
   ]
 }
