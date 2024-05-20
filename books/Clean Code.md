@@ -3,6 +3,8 @@ tags:
   - books
   - programming_languages
   - coding
+  - course
+  - "#refactoring"
 ---
 ### Blocchi Funzione
 Dal libro si evince che Robert all'inizio della propria carriera abbia lavorato creando programmi che creavano delle routines subroutines le quali erano male organizzate e troppo prolisse. Nel caso specifico a pagina 32 mostra del codice che poteva essere facilmente ripreso e ritrattato per renderlo più leggibile e più chiaro a tutti. Nello specifico ha creato delle funzioni che portavano via molto codice che veniva scritto più volte all'interno del metodo.
