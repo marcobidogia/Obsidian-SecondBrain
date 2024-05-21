@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d687d63f05f0579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/refactoring_guru/Dive_into_refactoring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d71f9c91dc73227e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/05-20.md",
+                "file": "daily_journals/2024/05-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/05-20.md",
+                "file": "daily_journals/2024/05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/05-20.md",
+                "file": "daily_journals/2024/05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/05-20.md"
+                "file": "daily_journals/2024/05-21.md"
               }
             }
           }
@@ -164,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/05-20.md",
+                "file": "daily_journals/2024/05-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,15 +198,18 @@
   },
   "active": "d71f9c91dc73227e",
   "lastOpenFiles": [
+    "daily_journals/2024/05-20.md",
+    "daily_journals/2024/05-21.md",
     "books/Clean Code.md",
+    "books/Così Parlò Zarathustra.md",
+    "courses/codecademy/Foundamentals of Cybersecurity Skill Path.md",
+    "aws/MemoryDB_for_Redis.md",
+    "aws/Aurora.md",
     "courses",
     "systems/Docker.md",
     "courses/refactoring_guru/Dive_into_refactoring.md",
     "courses/codecademy/Learn javascript unit testing.md",
-    "courses/codecademy/Foundamentals of Cybersecurity Skill Path.md",
     "design_pattern/Adapter.md",
-    "daily_journals/2024/05-20.md",
-    "books/Così Parlò Zarathustra.md",
     "books",
     "courses/refactoring_guru",
     "codecademy/Foundamentals_of_Cybersecurity Skill_Path",
@@ -227,9 +217,7 @@
     "databases/SQL.md",
     "aws/Route_53.md",
     "aws/RDS.md",
-    "aws/Aurora.md",
     "aws/Elasticache.md",
-    "aws/MemoryDB_for_Redis.md",
     "aws/IAM.md",
     "linux_procedures/Accesso_a_Github_via_ssh.md",
     "programming_languages/GoLang/001_intro.md",
