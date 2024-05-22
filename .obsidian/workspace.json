@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/05-21.md",
+                "file": "daily_journals/2024/05-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee2f13279f1f2784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_journals/2024/05-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/05-21.md",
+                "file": "daily_journals/2024/05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/05-21.md",
+                "file": "daily_journals/2024/05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/05-21.md"
+                "file": "daily_journals/2024/05-22.md"
               }
             }
           }
@@ -151,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/05-21.md",
+                "file": "daily_journals/2024/05-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,9 +209,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d71f9c91dc73227e",
+  "active": "ee2f13279f1f2784",
   "lastOpenFiles": [
     "daily_journals/2024/05-20.md",
+    "daily_journals/2024/05-22.md",
+    "Untitled.md",
+    "test.md",
     "daily_journals/2024/05-21.md",
     "books/Clean Code.md",
     "books/Così Parlò Zarathustra.md",
@@ -231,9 +247,6 @@
     "daily_journals/<% tp.date.now(\"YYYY\", -1) %>/<% tp.date.now(\"MM-MMMM\", -1) %>/<% tp.date.now(\"YYYY-MM-DD-dddd\", -1) %>.md",
     "daily_journals/<% tp.date.now(\"YYYY\", -1) %>/<% tp.date.now(\"MM-MMMM\", -1) %>",
     "Timestamps/<% tp.date.now(\"MM-MMMM\", -1) %>/<% tp.date.now(\"MM-DD-dddd\", -1) %>.md",
-    "files/image.png.md",
-    "systems/Anytype.20240517.175003.21/docker.md",
-    "refactoring/refactoring_guru/dive_into_refactoring/Code_smells.md",
     "Untitled.canvas"
   ]
 }
