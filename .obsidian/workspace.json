@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/05-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee2f13279f1f2784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_journals/2024/05-22.md",
+                "file": "design_pattern/Decorator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/05-22.md",
+                "file": "design_pattern/Decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/05-22.md",
+                "file": "design_pattern/Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/05-22.md"
+                "file": "design_pattern/Decorator.md"
               }
             }
           }
@@ -164,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/05-22.md",
+                "file": "design_pattern/Decorator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,15 +196,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee2f13279f1f2784",
+  "active": "d71f9c91dc73227e",
   "lastOpenFiles": [
+    "daily_journals/2024/05-24.md",
+    "design_pattern/Strategy.md",
+    "design_pattern/Adapter.md",
+    "design_pattern/Decorator.md",
+    "daily_journals/2024/05-23.md",
+    "daily_journals/2024/05-21.md",
     "daily_journals/2024/05-20.md",
     "daily_journals/2024/05-22.md",
+    "books/Così Parlò Zarathustra.md",
     "Untitled.md",
     "test.md",
-    "daily_journals/2024/05-21.md",
     "books/Clean Code.md",
-    "books/Così Parlò Zarathustra.md",
     "courses/codecademy/Foundamentals of Cybersecurity Skill Path.md",
     "aws/MemoryDB_for_Redis.md",
     "aws/Aurora.md",
@@ -225,7 +217,6 @@
     "systems/Docker.md",
     "courses/refactoring_guru/Dive_into_refactoring.md",
     "courses/codecademy/Learn javascript unit testing.md",
-    "design_pattern/Adapter.md",
     "books",
     "courses/refactoring_guru",
     "codecademy/Foundamentals_of_Cybersecurity Skill_Path",
@@ -242,11 +233,7 @@
     "aws",
     "programming_languages/GoLang",
     "programming_languages",
-    "systems/Kubernetes.md",
-    "templates/journaling/{{date}}.md",
-    "daily_journals/<% tp.date.now(\"YYYY\", -1) %>/<% tp.date.now(\"MM-MMMM\", -1) %>/<% tp.date.now(\"YYYY-MM-DD-dddd\", -1) %>.md",
     "daily_journals/<% tp.date.now(\"YYYY\", -1) %>/<% tp.date.now(\"MM-MMMM\", -1) %>",
-    "Timestamps/<% tp.date.now(\"MM-MMMM\", -1) %>/<% tp.date.now(\"MM-DD-dddd\", -1) %>.md",
     "Untitled.canvas"
   ]
 }
