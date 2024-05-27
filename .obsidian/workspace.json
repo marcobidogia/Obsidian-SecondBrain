@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/05-24.md",
+                "file": "daily_journals/2024/05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/05-24.md",
+                "file": "daily_journals/2024/05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/05-24.md",
+                "file": "daily_journals/2024/05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/05-24.md"
+                "file": "daily_journals/2024/05-27.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/05-24.md",
+                "file": "daily_journals/2024/05-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,6 +199,7 @@
   "active": "d71f9c91dc73227e",
   "lastOpenFiles": [
     "daily_journals/2024/05-24.md",
+    "daily_journals/2024/05-27.md",
     "design_pattern/Strategy.md",
     "design_pattern/Adapter.md",
     "design_pattern/Decorator.md",
@@ -228,7 +229,6 @@
     "aws/IAM.md",
     "linux_procedures/Accesso_a_Github_via_ssh.md",
     "programming_languages/GoLang/001_intro.md",
-    "aws/amazon_aurora/Untitled.md",
     "aws/amazon_aurora",
     "aws",
     "programming_languages/GoLang",
