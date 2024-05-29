@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/05-28.md",
+                "file": "daily_journals/2024/05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/05-28.md",
+                "file": "daily_journals/2024/05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/05-28.md",
+                "file": "daily_journals/2024/05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/05-28.md"
+                "file": "daily_journals/2024/05-29.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/05-28.md",
+                "file": "daily_journals/2024/05-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,8 +198,9 @@
   },
   "active": "d71f9c91dc73227e",
   "lastOpenFiles": [
-    "daily_journals/2024/05-27.md",
     "daily_journals/2024/05-28.md",
+    "daily_journals/2024/05-29.md",
+    "daily_journals/2024/05-27.md",
     "daily_journals/2024/05-24.md",
     "design_pattern/Strategy.md",
     "design_pattern/Adapter.md",
@@ -228,7 +229,6 @@
     "aws/RDS.md",
     "aws/Elasticache.md",
     "aws/IAM.md",
-    "linux_procedures/Accesso_a_Github_via_ssh.md",
     "aws/amazon_aurora",
     "aws",
     "programming_languages/GoLang",
