@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d71f9c91dc73227e",
+            "id": "7eb2ede742c6e928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neovim/lazyvim_wiki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neovim/lazyvim_wiki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neovim/lazyvim_wiki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neovim/lazyvim_wiki.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neovim/lazyvim_wiki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,10 +196,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d71f9c91dc73227e",
+  "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
-    "daily_journals/2024/05-30.md",
     "neovim/lazyvim_wiki.md",
+    "conflict-files-obsidian-git.md",
+    "refactoring_guru/Dive_into_refactoring.md",
+    "refactoring_guru",
+    "daily_journals/2024/05-30.md",
+    "codecademy/Learn javascript unit testing.md",
+    "codecademy/Foundamentals of Cybersecurity Skill Path.md",
+    "codecademy",
     "neovim/corso typecraft.md",
     "daily_journals/2024/05-29.md",
     "neovim",
@@ -222,18 +228,12 @@
     "aws/Aurora.md",
     "courses",
     "systems/Docker.md",
-    "courses/refactoring_guru/Dive_into_refactoring.md",
-    "courses/codecademy/Learn javascript unit testing.md",
     "books",
     "courses/refactoring_guru",
     "codecademy/Foundamentals_of_Cybersecurity Skill_Path",
     "courses/codecademy",
-    "databases/SQL.md",
-    "aws/Route_53.md",
     "aws/amazon_aurora",
     "aws",
-    "programming_languages/GoLang",
-    "programming_languages",
     "Untitled.canvas"
   ]
 }
