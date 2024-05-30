@@ -1,3 +1,9 @@
+---
+tags:
+  - coding
+  - course
+---
+
 ## Mocha
 Mocha è uno dei pacchetti usati per testare il codice Javascript.
 Per installarlo sarà semplicemente necessario:

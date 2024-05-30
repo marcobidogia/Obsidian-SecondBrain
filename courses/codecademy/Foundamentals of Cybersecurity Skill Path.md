@@ -1,3 +1,9 @@
+---
+tags:
+  - coding
+  - cyber-security
+---
+
 ## Security: Not an Add-On
 Mentre l'umanità diventava man mano più connessa attraverso computer, telefoni ed internet gli attacchi informatici erano sempre più frequenti.
 Le applicazioni target di questi attacchi erano di diversi tipi normalmente atti a rubare milioni di dati personali, carte di credito e dati sensibili.

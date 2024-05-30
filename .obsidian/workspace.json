@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "daily_journals/2024/05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "daily_journals/2024/05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "daily_journals/2024/05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "daily_journals/2024/05-30.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "daily_journals/2024/05-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,11 +198,11 @@
   },
   "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
-    "neovim/lazyvim_wiki.md",
+    "daily_journals/2024/05-30.md",
     "conflict-files-obsidian-git.md",
+    "neovim/lazyvim_wiki.md",
     "refactoring_guru/Dive_into_refactoring.md",
     "refactoring_guru",
-    "daily_journals/2024/05-30.md",
     "codecademy/Learn javascript unit testing.md",
     "codecademy/Foundamentals of Cybersecurity Skill Path.md",
     "codecademy",
