@@ -25,3 +25,4 @@ Fatto!
 
 > [!WARNING] Ricordati
 > Ricorda di scaricare le directory via SSH e non via HTTPS.
+> git clone "git@...."
