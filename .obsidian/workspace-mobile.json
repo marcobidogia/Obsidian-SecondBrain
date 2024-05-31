@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/05-30.md",
+                "file": "daily_journals/2024/05-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily_journals/2024/05-30.md",
+            "file": "daily_journals/2024/05-31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily_journals/2024/05-30.md",
+            "file": "daily_journals/2024/05-31.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily_journals/2024/05-30.md"
+            "file": "daily_journals/2024/05-31.md"
           }
         }
       },
@@ -141,41 +141,41 @@
   },
   "active": "7f5977d375c19e74",
   "lastOpenFiles": [
-    "daily_journals/2024/05-30.md",
-    "daily_journals/2024/05-29.md",
-    "databases/SQL.md",
-    "daily_journals/2024/05-20.md",
-    "aws/Aurora.md",
-    "daily_journals/2024",
-    "daily_journals",
-    "refactoring_guru",
-    "refactoring_guru/Dive_into_refactoring.md",
-    "linux_procedures/Accesso_a_Github_via_ssh.md",
-    "books/Così Parlò Zarathustra.md",
-    "books/Clean Code.md",
-    "books",
-    "aws/MemoryDB_for_Redis.md",
-    "aws/RDS.md",
-    "aws/Elasticache.md",
-    "aws",
-    "codecademy/Foundamentals of Cybersecurity Skill Path.md",
-    "codecademy/Learn javascript unit testing.md",
-    "codecademy",
-    "templates/journaling/{{date}}.md",
-    "templates/journaling",
-    "templates",
-    "aws/IAM.md",
-    "programming_languages/GoLang/001_intro.md",
-    "programming_languages/GoLang",
-    "programming_languages",
-    "aws/Route_53.md",
-    "/templates/journaling/{{date}}.md",
-    "/refactoring_guru/Dive_into_refactoring.md",
-    "/programming_languages/GoLang/001_intro.md",
+    "arch/hyprland.md",
+    "arch/nvim.md",
+    "arch",
+    "arch/vim.md",
     "/linux_procedures/Accesso_a_Github_via_ssh.md",
-    "/daily_journals/2024/05-20.md",
-    "/codecademy/Learn javascript unit testing.md",
-    "/codecademy/Foundamentals of Cybersecurity Skill Path.md",
-    "/books/Così Parlò Zarathustra.md"
+    "/daily_journals/2024/05-30.md",
+    "/arch/vim.md",
+    "/arch/nvim.md",
+    "/arch/hyprland.md",
+    "/arch",
+    "daily_journals/2024/05-30.md",
+    "daily_journals/2024/05-31.md",
+    "daily_journals/2024/05-21.md",
+    "design_pattern/Strategy.md",
+    "daily_journals/2024/05-28.md",
+    "daily_journals/2024/05-24.md",
+    "daily_journals/2024/05-22.md",
+    "neovim/lazyvim_wiki.md",
+    "neovim",
+    "neovim/corso typecraft.md",
+    "daily_journals/2024/05-29.md",
+    "daily_journals/2024/05-27.md",
+    "daily_journals/2024/05-23.md",
+    "courses/codecademy/Foundamentals of Cybersecurity Skill Path.md",
+    "courses/codecademy/Learn javascript unit testing.md",
+    "courses/refactoring_guru/Dive_into_refactoring.md",
+    "courses/codecademy",
+    "courses/refactoring_guru",
+    "courses",
+    "/courses/refactoring_guru/Dive_into_refactoring.md",
+    "/neovim/lazyvim_wiki.md",
+    "/neovim/corso typecraft.md",
+    "/neovim",
+    "/courses/refactoring_guru",
+    "/courses/codecademy",
+    "/courses"
   ]
 }
