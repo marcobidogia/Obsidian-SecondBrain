@@ -23,3 +23,16 @@ tags:
 | a                 | Crea nuovo cartella o file      |
 | d                 | Cancella                        |
 | ?                 | Help                            |
+| c                 | Copia                           |
+| m                 | uovi                            |
+
+## Lsp
+
+| Codice              | Comando                            |
+| ------------------- | ---------------------------------- |
+| `<F1>`              | Apre la descrizione della funzione |
+| `<F12>`             | Vai a definizione                  |
+| `<F2>`              | Rinomina                           |
+| `space` + l + r     | Mostra riferimenti                 |
+| `<alt>` + `<enter>` | Mostra le code actions             |
+

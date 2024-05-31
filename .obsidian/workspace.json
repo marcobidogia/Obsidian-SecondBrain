@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch/vim.md",
+                "file": "arch/nvim.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch/vim.md",
+                "file": "arch/nvim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch/vim.md",
+                "file": "arch/nvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch/vim.md"
+                "file": "arch/nvim.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch/vim.md",
+                "file": "arch/nvim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,11 +198,12 @@
   },
   "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
+    "arch/vim.md",
+    "daily_journals/2024/05-31.md",
+    "daily_journals/2024/05-30.md",
     "arch/hyprland.md",
     "arch/nvim.md",
-    "arch/vim.md",
     "linux_procedures/Accesso_a_Github_via_ssh.md",
-    "daily_journals/2024/05-30.md",
     "arch",
     "daily_journals/2024/05-20.md",
     "neovim/corso typecraft.md",
@@ -227,7 +228,6 @@
     "books/Così Parlò Zarathustra.md",
     "Untitled.md",
     "test.md",
-    "books/Clean Code.md",
     "courses",
     "books",
     "courses/refactoring_guru",
