@@ -4,6 +4,7 @@ tags:
   - linux
   - wiki
   - hyprland
+  - shortcuts
 ---
 # Key mapping
 

@@ -2,6 +2,7 @@
 tags:
   - neovim
   - wiki
+  - shortcuts
 ---
 # Key mapping
 
@@ -36,3 +37,23 @@ tags:
 | `space` + l + r     | Mostra riferimenti                 |
 | `<alt>` + `<enter>` | Mostra le code actions             |
 
+## None-ls
+
+| Codice    | Comando            |
+| --------- | ------------------ |
+| <Alt - F> | Formatta il codice |
+
+## Toggle Term
+
+| Codice | Comando               |
+| ------ | --------------------- |
+| `<F4>` | Apre il terminale<br> |
+
+## Dap
+
+| Codice  | Comando                                |
+| ------- | -------------------------------------- |
+| `<F9>`  | Toggle breakpoint<br>                  |
+| `<F5>`  | Avvia, Attacca e manda avanti il debug |
+| `<F10>` | Step over                              |
+| `<F11>` | Step in                                |

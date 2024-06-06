@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch/nvim.md",
+                "file": "daily_journals/2024/06-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch/nvim.md",
+                "file": "daily_journals/2024/06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch/nvim.md",
+                "file": "daily_journals/2024/06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch/nvim.md"
+                "file": "daily_journals/2024/06-06.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch/nvim.md",
+                "file": "daily_journals/2024/06-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,11 +198,18 @@
   },
   "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
-    "arch/vim.md",
+    "daily_journals/2024/07-06.md",
+    "daily_journals/2024/06-05.md",
+    "daily_journals/2024/06-04.md",
+    "daily_journals/2024/06-06.md",
     "daily_journals/2024/05-31.md",
-    "daily_journals/2024/05-30.md",
+    "daily_journals/2024/06-03.md",
+    "daily_journals/2024/07-05.md",
+    "arch/tmux.md",
+    "arch/vim.md",
     "arch/hyprland.md",
     "arch/nvim.md",
+    "daily_journals/2024/05-30.md",
     "linux_procedures/Accesso_a_Github_via_ssh.md",
     "arch",
     "daily_journals/2024/05-20.md",
@@ -221,13 +228,6 @@
     "daily_journals/2024/05-24.md",
     "design_pattern/Strategy.md",
     "design_pattern/Adapter.md",
-    "design_pattern/Decorator.md",
-    "daily_journals/2024/05-23.md",
-    "daily_journals/2024/05-21.md",
-    "daily_journals/2024/05-22.md",
-    "books/Così Parlò Zarathustra.md",
-    "Untitled.md",
-    "test.md",
     "courses",
     "books",
     "courses/refactoring_guru",

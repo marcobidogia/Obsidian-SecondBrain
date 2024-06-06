@@ -2,6 +2,7 @@
 tags:
   - vim
   - wiki
+  - shortcuts
 ---
 ## Movimento
 
