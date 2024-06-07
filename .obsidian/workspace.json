@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/06-06.md",
+                "file": "daily_journals/2024/06-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/06-06.md",
+                "file": "daily_journals/2024/06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/06-06.md",
+                "file": "daily_journals/2024/06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/06-06.md"
+                "file": "daily_journals/2024/06-07.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/06-06.md",
+                "file": "daily_journals/2024/06-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,10 +198,12 @@
   },
   "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
-    "daily_journals/2024/07-06.md",
+    "programming_languages/GoLang/001_intro.md",
+    "daily_journals/2024/06-07.md",
+    "daily_journals/2024/06-06.md",
+    "daily_journals/2024/06-07.md",
     "daily_journals/2024/06-05.md",
     "daily_journals/2024/06-04.md",
-    "daily_journals/2024/06-06.md",
     "daily_journals/2024/05-31.md",
     "daily_journals/2024/06-03.md",
     "daily_journals/2024/07-05.md",
@@ -226,8 +228,6 @@
     "daily_journals/2024/05-28.md",
     "daily_journals/2024/05-27.md",
     "daily_journals/2024/05-24.md",
-    "design_pattern/Strategy.md",
-    "design_pattern/Adapter.md",
     "courses",
     "books",
     "courses/refactoring_guru",

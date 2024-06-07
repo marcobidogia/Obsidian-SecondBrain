@@ -82,7 +82,11 @@ if err != nil {
 #### 11. Package e Gestione delle Dipendenze
 Go utilizza go mod per la gestione delle dipendenze, facilitando l'aggiunta, la rimozione e l'aggiornamento dei pacchetti.
 Questi concetti sono fondamentali per iniziare con Go. Man mano che ti immergi nello sviluppo con Go, esplorerai più dettagli e peculiarità del linguaggio che lo rendono un'ottima scelta per sistemi concorrenti, applicazioni web, servizi cloud, e molto altro.
-
+### 12. Build
+Per gestire il build delle applicazioni e' consigliato costruire un bash. Il comando per il build e':
+``` bash
+go build -o <nome_eseguibile> [<file_del_progetto>, ...]
+```
 ## GoRoutine
 In Go, la concorrenza è gestita tramite goroutine, che sono funzioni eseguite in modo concorrente. Le goroutine sono più leggere dei thread a livello di sistema e Go gestisce automaticamente la loro esecuzione su thread di sistema disponibili. Per eseguire due compiti in modo concorrente, puoi semplicemente avviare due goroutine. Qui sotto trovi un esempio di come fare:
 #### Esempio di Due Goroutine
