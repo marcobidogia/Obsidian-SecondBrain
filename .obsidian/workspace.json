@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/06-12.md",
+                "file": "daily_journals/2024/06-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:aws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/06-12.md",
+                "file": "daily_journals/2024/06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/06-12.md",
+                "file": "daily_journals/2024/06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/06-12.md"
+                "file": "daily_journals/2024/06-25.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/06-12.md",
+                "file": "daily_journals/2024/06-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666663,
+                  "scale": 0.6666666666666662,
                   "close": true
                 }
               }
@@ -198,11 +198,25 @@
   },
   "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
-    "programming_languages/Python/Programmare in Arch.md",
+    "daily_journals/2024/06-24.md",
+    "daily_journals/2024/06-25.md",
+    "daily_journals/2024/06-13.md",
+    "daily_journals/2024/06-17.md",
+    "daily_journals/2024/06-16.md",
+    "daily_journals/2024/06-15.md",
+    "daily_journals/2024/06-14.md",
+    "daily_journals/2024/06-12.md",
+    "neovim/lazyvim_wiki.md",
+    "aws/IAM.md",
     "arch/hyprland.md",
+    "arch/tmux.md",
+    "design_pattern/Adapter.md",
+    "frameworks/React-Native.md",
+    "frameworks",
+    "programming_languages/Javascript.md",
+    "programming_languages/Python/Programmare in Arch.md",
     "arch/vim.md",
     "arch/nvim.md",
-    "daily_journals/2024/06-12.md",
     "daily_journals/2024/06-07.md",
     "books/Clean Code.md",
     "programming_languages/Python",
@@ -212,20 +226,7 @@
     "programming_languages/GoLang/001_intro.md",
     "daily_journals/2024/06-06.md",
     "daily_journals/2024/06-05.md",
-    "daily_journals/2024/06-04.md",
-    "daily_journals/2024/05-31.md",
-    "daily_journals/2024/06-03.md",
-    "daily_journals/2024/07-05.md",
-    "arch/tmux.md",
-    "daily_journals/2024/05-30.md",
-    "linux_procedures/Accesso_a_Github_via_ssh.md",
     "arch",
-    "daily_journals/2024/05-20.md",
-    "neovim/corso typecraft.md",
-    "daily_journals/2024/05-29.md",
-    "conflict-files-obsidian-git.md",
-    "neovim/lazyvim_wiki.md",
-    "refactoring_guru/Dive_into_refactoring.md",
     "refactoring_guru",
     "codecademy",
     "neovim",
@@ -233,7 +234,6 @@
     "books",
     "courses/refactoring_guru",
     "codecademy/Foundamentals_of_Cybersecurity Skill_Path",
-    "courses/codecademy",
     "Untitled.canvas"
   ]
 }
