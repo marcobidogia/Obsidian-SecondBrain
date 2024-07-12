@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_journals/2024/06-26.md",
+                "file": "daily_journals/2024/06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_journals/2024/06-26.md",
+                "file": "daily_journals/2024/06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_journals/2024/06-26.md",
+                "file": "daily_journals/2024/06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_journals/2024/06-26.md"
+                "file": "daily_journals/2024/06-27.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily_journals/2024/06-26.md",
+                "file": "daily_journals/2024/06-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,8 +198,9 @@
   },
   "active": "7eb2ede742c6e928",
   "lastOpenFiles": [
-    "daily_journals/2024/06-25.md",
     "daily_journals/2024/06-26.md",
+    "daily_journals/2024/06-27.md",
+    "daily_journals/2024/06-25.md",
     "daily_journals/2024/06-24.md",
     "daily_journals/2024/06-13.md",
     "daily_journals/2024/06-17.md",
@@ -225,7 +226,6 @@
     "daily_journals/2024/06-11.md",
     "daily_journals/2024/06-10.md",
     "programming_languages/GoLang/001_intro.md",
-    "daily_journals/2024/06-06.md",
     "arch",
     "refactoring_guru",
     "codecademy",
