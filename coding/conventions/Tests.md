@@ -1,3 +1,9 @@
+---
+tags:
+  - coding
+  - conventions
+  - test
+---
 # Test Naming conventions
 
 É raccomandato l'utilizzo della convenzione nel nominare i test nel seguente modo:

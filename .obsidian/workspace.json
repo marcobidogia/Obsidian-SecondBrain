@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conventions.md",
+                "file": "design_pattern/Dependency injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:aws",
+                "query": "tag:#vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conventions.md",
+                "file": "design_pattern/Dependency injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conventions.md",
+                "file": "design_pattern/Dependency injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conventions.md"
+                "file": "design_pattern/Dependency injection.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conventions.md",
+                "file": "design_pattern/Dependency injection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,9 +198,18 @@
   },
   "active": "5ced6e4191cb0d7d",
   "lastOpenFiles": [
+    "media/Pasted image 20240823145433.png",
+    "coding/conventions/Tests.md",
+    "coding/Conventions.md",
+    "coding/conventions",
+    "coding",
+    "media",
+    "dotnet/CancellationToken.md",
+    "dotnet",
+    "design_pattern/Dependency injection.md",
+    "design_pattern/Decorator.md",
     "test_driven_development/Introduction.md",
-    "Conventions.md",
-    "Pasted image 20240820120609.png",
+    "media/Pasted image 20240820120609.png",
     "databases/SQL.md",
     "daily_journals/2024/08-19.md",
     "test_driven_development/desktop.ini",
@@ -223,18 +232,9 @@
     "frameworks/React-Native.md",
     "frameworks",
     "programming_languages/Javascript.md",
-    "programming_languages/Python/Programmare in Arch.md",
-    "arch/vim.md",
-    "arch/nvim.md",
-    "daily_journals/2024/06-07.md",
-    "books/Clean Code.md",
     "programming_languages/Python",
     "arch",
     "refactoring_guru",
-    "codecademy",
-    "neovim",
-    "courses",
-    "books",
     "Untitled.canvas"
   ]
 }
