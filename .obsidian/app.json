@@ -1,5 +1,6 @@
 {
   "vimMode": false,
   "showLineNumber": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "media"
 }

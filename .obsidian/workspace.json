@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design_pattern/Dependency injection.md",
+                "file": "nodejs/Publish npm package on GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design_pattern/Dependency injection.md",
+                "file": "nodejs/Publish npm package on GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design_pattern/Dependency injection.md",
+                "file": "nodejs/Publish npm package on GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design_pattern/Dependency injection.md"
+                "file": "nodejs/Publish npm package on GitHub.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "design_pattern/Dependency injection.md",
+                "file": "nodejs/Publish npm package on GitHub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,24 +196,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ced6e4191cb0d7d",
+  "active": "25b258e4a3e9f01c",
   "lastOpenFiles": [
-    "media/Pasted image 20240823145433.png",
+    "electron/Intro.md",
+    "nodejs/Publish npm package on GitHub.md",
+    "nodejs",
+    "electron/desktop.ini",
+    "dotnet/Framework design guidelines.md",
+    "electron",
+    "design_pattern/Dependency injection.md",
+    "design_pattern/Factory Method.md",
+    "media/Pasted image 20240826111812.png",
+    "media/Pasted image 20240826111557.png",
+    "design_pattern/Untitled",
+    "software_design/UML Class Diagram.md",
+    "media/Pasted image 20240826092541.png",
+    "media/Pasted image 20240826092528.png",
+    "media/Pasted image 20240826092459.png",
+    "media/Pasted image 20240826092409.png",
+    "media/Pasted image 20240826092030.png",
+    "media/Pasted image 20240826092305.png",
+    "media/Pasted image 20240826092214.png",
+    "media/Pasted image 20240826092146.png",
+    "software_design/desktop.ini",
+    "git/Git workflow.md",
+    "software_design",
+    "git/desktop.ini",
+    "git",
     "coding/conventions/Tests.md",
     "coding/Conventions.md",
     "coding/conventions",
     "coding",
-    "media",
     "dotnet/CancellationToken.md",
-    "dotnet",
-    "design_pattern/Dependency injection.md",
     "design_pattern/Decorator.md",
     "test_driven_development/Introduction.md",
-    "media/Pasted image 20240820120609.png",
     "databases/SQL.md",
     "daily_journals/2024/08-19.md",
-    "test_driven_development/desktop.ini",
-    "test_driven_development",
     "daily_journals/2024/06-27.md",
     "daily_journals/2024/06-26.md",
     "daily_journals/2024/06-25.md",
@@ -226,15 +244,6 @@
     "daily_journals/2024/06-12.md",
     "neovim/lazyvim_wiki.md",
     "aws/IAM.md",
-    "arch/hyprland.md",
-    "arch/tmux.md",
-    "design_pattern/Adapter.md",
-    "frameworks/React-Native.md",
-    "frameworks",
-    "programming_languages/Javascript.md",
-    "programming_languages/Python",
-    "arch",
-    "refactoring_guru",
     "Untitled.canvas"
   ]
 }
