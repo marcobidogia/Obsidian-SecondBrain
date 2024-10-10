@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce5daee1468157e",
+        "id": "69fc12076ad38fe5",
         "type": "tabs",
         "children": [
           {
-            "id": "25b258e4a3e9f01c",
+            "id": "b29f47d58f6e105e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodejs/Publish npm package on GitHub.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vim",
+                "query": "tag:#dependency-injection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodejs/Publish npm package on GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/Publish npm package on GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nodejs/Publish npm package on GitHub.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nodejs/Publish npm package on GitHub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,20 +188,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25b258e4a3e9f01c",
+  "active": "b29f47d58f6e105e",
   "lastOpenFiles": [
-    "electron/Intro.md",
-    "nodejs/Publish npm package on GitHub.md",
-    "nodejs",
-    "electron/desktop.ini",
-    "dotnet/Framework design guidelines.md",
-    "electron",
     "design_pattern/Dependency injection.md",
+    "software_design/UML Class Diagram.md",
+    "unit_testing/test_driven_development/Introduction.md",
+    "unit_testing/Generale.md",
+    "projects/HMI financial tracker.md",
+    "unit_testing",
+    "dotnet/Synchronizing data for multithreading.md",
+    "projects",
+    "clean_architecture/desktop.ini",
+    "test_driven_development/desktop.ini",
+    "programming_languages/desktop.ini",
+    "systems/desktop.ini",
+    "books/desktop.ini",
+    "linux_procedures/desktop.ini",
+    "desktop.ini",
+    "coding/conventions/desktop.ini",
+    "clean_architecture/intro.md",
+    "react/Redux.md",
+    "react/Wiki.md",
+    "coding/conventions/Tests.md",
+    "nodejs/Publish npm package on GitHub.md",
+    "dotnet/Polymorphism.md",
+    "systems/Docker.md",
+    "daily_journals/2024/05-21.md",
+    "electron/Intro.md",
+    "dotnet/Framework design guidelines.md",
     "design_pattern/Factory Method.md",
     "media/Pasted image 20240826111812.png",
     "media/Pasted image 20240826111557.png",
-    "design_pattern/Untitled",
-    "software_design/UML Class Diagram.md",
     "media/Pasted image 20240826092541.png",
     "media/Pasted image 20240826092528.png",
     "media/Pasted image 20240826092459.png",
@@ -218,32 +227,15 @@
     "media/Pasted image 20240826092305.png",
     "media/Pasted image 20240826092214.png",
     "media/Pasted image 20240826092146.png",
-    "software_design/desktop.ini",
     "git/Git workflow.md",
-    "software_design",
-    "git/desktop.ini",
-    "git",
-    "coding/conventions/Tests.md",
     "coding/Conventions.md",
-    "coding/conventions",
-    "coding",
     "dotnet/CancellationToken.md",
     "design_pattern/Decorator.md",
-    "test_driven_development/Introduction.md",
     "databases/SQL.md",
     "daily_journals/2024/08-19.md",
     "daily_journals/2024/06-27.md",
     "daily_journals/2024/06-26.md",
     "daily_journals/2024/06-25.md",
-    "daily_journals/2024/06-24.md",
-    "daily_journals/2024/06-13.md",
-    "daily_journals/2024/06-17.md",
-    "daily_journals/2024/06-16.md",
-    "daily_journals/2024/06-15.md",
-    "daily_journals/2024/06-14.md",
-    "daily_journals/2024/06-12.md",
-    "neovim/lazyvim_wiki.md",
-    "aws/IAM.md",
     "Untitled.canvas"
   ]
 }
