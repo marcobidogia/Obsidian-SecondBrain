@@ -11,8 +11,12 @@
             "id": "b29f47d58f6e105e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dotnet/Entity framework.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dotnet/Entity framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dotnet/Entity framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dotnet/Entity framework.md"
+              }
             }
           }
         ]
@@ -144,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dotnet/Entity framework.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,6 +198,8 @@
   },
   "active": "b29f47d58f6e105e",
   "lastOpenFiles": [
+    "git/gitignore.md",
+    "dotnet/Entity framework.md",
     "design_pattern/Dependency injection.md",
     "software_design/UML Class Diagram.md",
     "unit_testing/test_driven_development/Introduction.md",
@@ -234,8 +244,6 @@
     "databases/SQL.md",
     "daily_journals/2024/08-19.md",
     "daily_journals/2024/06-27.md",
-    "daily_journals/2024/06-26.md",
-    "daily_journals/2024/06-25.md",
     "Untitled.canvas"
   ]
 }
