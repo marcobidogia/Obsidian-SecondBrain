@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet/Entity framework.md",
+                "file": "dotnet/Dependency injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet/Entity framework.md",
+                "file": "dotnet/Dependency injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotnet/Entity framework.md",
+                "file": "dotnet/Dependency injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/Entity framework.md"
+                "file": "dotnet/Dependency injection.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dotnet/Entity framework.md",
+                "file": "dotnet/Dependency injection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,8 +198,9 @@
   },
   "active": "b29f47d58f6e105e",
   "lastOpenFiles": [
-    "git/gitignore.md",
     "dotnet/Entity framework.md",
+    "dotnet/Dependency injection.md",
+    "git/gitignore.md",
     "design_pattern/Dependency injection.md",
     "software_design/UML Class Diagram.md",
     "unit_testing/test_driven_development/Introduction.md",
@@ -243,7 +244,6 @@
     "design_pattern/Decorator.md",
     "databases/SQL.md",
     "daily_journals/2024/08-19.md",
-    "daily_journals/2024/06-27.md",
     "Untitled.canvas"
   ]
 }
