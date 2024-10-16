@@ -2,6 +2,7 @@
 tags:
   - coding
   - dotnet
+  - todo
 ---
 # Intro
 Entity framework core è un modo di strutturare il codice attraverso delle tecniche di [[Entity framework#ORM]] e spostarne il riferimento nei database relazionali e non attraverso delle stutture dati definite.

@@ -3,6 +3,7 @@ tags:
   - coding
   - dotnet
   - clean-architecture
+  - todo
 ---
 # Intro
 Dependency injection è un pattern di sviluppo di dotnet utile per spezzare il programma in molti piccoli servizi. I servizi sono gestiti interamente dal framework.
@@ -36,3 +37,5 @@ dove sarà possibile reperire le impostazioni cercando con il seguente pattern:
 ```c#
  configuration["<Section>:<SubSection|Parameter>]
 ```
+
+# HostApplicationBuilder
