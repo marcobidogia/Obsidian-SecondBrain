@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet/Synchronizing data for multithreading.md",
+                "file": "unit_testing/Generale.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet/Synchronizing data for multithreading.md",
+                "file": "unit_testing/Generale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotnet/Synchronizing data for multithreading.md",
+                "file": "unit_testing/Generale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/Synchronizing data for multithreading.md"
+                "file": "unit_testing/Generale.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dotnet/Synchronizing data for multithreading.md",
+                "file": "unit_testing/Generale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,9 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b29f47d58f6e105e",
+  "active": "5ced6e4191cb0d7d",
   "lastOpenFiles": [
-    "dotnet/Repository pattern.md",
+    "unit_testing/test_driven_development/Introduction.md",
+    "dotnet/Synchronizing data for multithreading.md",
+    "design_pattern/Repository pattern.md",
     "dotnet/Framework design guidelines.md",
     "dotnet/Entity framework.md",
     "dotnet/Dependency injection.md",
@@ -211,13 +213,11 @@
     "daily_journals/2024/05-28.md",
     "daily_journals/2024/05-22.md",
     "daily_journals/2024/05-20.md",
-    "dotnet/Synchronizing data for multithreading.md",
     "dotnet/Polymorphism.md",
     "dotnet/CancellationToken.md",
     "git/gitignore.md",
     "design_pattern/Dependency injection.md",
     "software_design/UML Class Diagram.md",
-    "unit_testing/test_driven_development/Introduction.md",
     "unit_testing/Generale.md",
     "projects/HMI financial tracker.md",
     "unit_testing",
